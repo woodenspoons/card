@@ -1,0 +1,30 @@
+body{
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                 
+}
+.img-person{
+    width: 150px;
+}
+
+.card{
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+    background: #ddebf8;
+    color: #2B2839;
+    border-bottom: 5px solid #d8cefe ;
+   
+
+    
+   
+    
+}
+.border-blue{
+    border: 1px dotted blue;
+}
